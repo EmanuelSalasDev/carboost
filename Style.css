@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+}
+
+.car{
+ color: white;
+   
+}
+
+.paragraph{
+    color: white;
+     
+}
+
+
+
+
+
+
+.card__sedan{
+    
+    background-color: orange;  
+}
+
+.card__suv{
+    
+    background-color: lightseagreen;
+}
+
+.card__luxury{
+    
+    background-color: teal;
+}
+
+.button{
+    border-radius: 30px;
+    border: 2px solid white;
+    
+}
+
+
